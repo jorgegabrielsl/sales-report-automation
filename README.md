@@ -1,22 +1,26 @@
-# Sales Report Automation
+# Automação de Relatórios de Vendas
 
-Automated data pipeline built with Python.
+Pipeline automatizado de dados desenvolvido em Python.
 
-The script connects to a PostgreSQL database, executes SQL queries,
-processes the data using Pandas, generates Excel reports and sends
-them automatically via email.
+O script conecta a um banco de dados PostgreSQL, executa consultas SQL,
+processa os dados utilizando Pandas, gera relatórios em Excel e envia
+automaticamente os arquivos por e-mail.
 
-## Features
+O objetivo do projeto é automatizar a geração e distribuição de relatórios
+de dados, reduzindo tarefas manuais e aumentando a eficiência do processo.
 
-- PostgreSQL database connection
-- SQL data extraction
-- Data transformation with Pandas
-- Excel report generation
-- Automated email delivery
+## Funcionalidades
 
-## Technologies
+- Conexão com banco de dados PostgreSQL
+- Extração de dados utilizando consultas SQL
+- Transformação e tratamento de dados com Pandas
+- Geração automática de relatórios em Excel
+- Envio automático de relatórios por e-mail
+
+## Tecnologias utilizadas
 
 - Python
 - PostgreSQL
 - Pandas
 - SMTP
+- OpenPyXL
