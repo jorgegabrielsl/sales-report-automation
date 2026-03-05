@@ -24,3 +24,12 @@ de dados, reduzindo tarefas manuais e aumentando a eficiência do processo.
 - Pandas
 - SMTP
 - OpenPyXL
+
+---
+
+## Observação
+
+Este projeto é uma **versão demonstrativa para portfólio**.
+
+Os nomes de tabelas, colunas e estruturas foram simplificados e não
+representam sistemas reais utilizados em ambiente corporativo.
