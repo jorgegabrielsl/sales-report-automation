@@ -1,7 +1,19 @@
-Pipeline de automação de dados desenvolvido em Python.
+# Automação de Relatórios de Vendas
 
-O script conecta a um banco PostgreSQL, executa consultas SQL,
-processa os dados utilizando Pandas, gera relatórios em Excel
-e envia automaticamente por e-mail para os responsáveis.
+Projeto de automação de relatórios utilizando Python e PostgreSQL.
 
-O objetivo é automatizar a geração e distribuição de relatórios comerciais.
+O pipeline realiza:
+
+1. Conexão com banco de dados PostgreSQL
+2. Execução de consultas SQL
+3. Processamento de dados com Pandas
+4. Geração de relatórios em Excel
+5. Envio automático de relatórios por e-mail
+
+## Tecnologias
+
+- Python
+- PostgreSQL
+- Pandas
+- SQL
+- SMTP
